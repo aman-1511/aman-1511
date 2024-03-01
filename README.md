@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-1511" alt="aman-1511" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon clone app**
+- 🔭 I’m currently working on **AI/ML Based Model**
 
-- 🌱 I’m currently learning **Flutter, MERN Stack and ML**
+- 🌱 I’m currently learning ** Data Science & Machine Learning **
+- 💬 Ask me about **Flutter,Node.js, React, Firebase, MongoDB... or more**
 
 - 📫 How to reach me **aman.chaudhary1511@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://gmail.com/in/aman-chaudhary1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-chaudhary1511" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/aman-chaudhary1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-chaudhary1511" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aman-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman-15" height="30" width="40" /></a>
 </p>
