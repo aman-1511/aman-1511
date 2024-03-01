@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on **AI/ML Based Model**
 
-- 🌱 I’m currently learning ** Data Science & Machine Learning **
-- 💬 Ask me about ** Flutter,Node.js, React, Firebase, MongoDB... or more **
+- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 💬 Ask me about **Flutter,Node.js, React, Firebase, MongoDB... or more**
 
 - 📫 How to reach me **aman.chaudhary1511@gmail.com**
 
